@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cafe Javas Uganda</string>
+
+    <string name="head">Welcome to Cafe Javas Uganda</string>
+    <string name="cafe">Cafe</string>
+    <string name="javas">Javas</string>
+
+    <string name="desc"><j>We are a fully fledged restaurant specializing in delivering a relaxed and
+    memorable dining experience. We are currently in 9 locations, 7 in Kampala, 1 in Entebbe and 
+        1 in Nairobi.</j></string>
+    
+    <string name="contact_tel"> +256 393 000 090</string>
+    <string name="contact_email">info@cafejavas.co.ug</string>
+
+    <string name="address">The Oasis Mall, Access Road, <br/> Kampala</string>
+
+    <string name="menu_heading">Our Menu</string>
+
+    <string name="brk"> Breakfast</string>
+    <string name="drk">Drinks </string>
+    <string name="meal">Main Meals</string>
+    <string name="dess">Desserts </string>
+</resources>
